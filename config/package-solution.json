@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "spfx-c-6-texto-color-client-side-solution",
+    "id": "ac42ee40-1693-4a88-a960-a66712bf4cea",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "spfx-c6-textoColor description"
+      },
+      "longDescription": {
+        "default": "spfx-c6-textoColor description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "spfx-c-6-texto-color Feature",
+        "description": "The feature that activates elements of the spfx-c-6-texto-color solution.",
+        "id": "4f5b754e-fe91-40d4-83e6-0c55dd8745a0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfx-c-6-texto-color.sppkg"
+  }
+}

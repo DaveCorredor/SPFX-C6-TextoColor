@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "spfx-c-6-texto-color",
+    "libraryId": "ac42ee40-1693-4a88-a960-a66712bf4cea",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-c6-textoColor",
+    "solutionShortDescription": "spfx-c6-textoColor description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

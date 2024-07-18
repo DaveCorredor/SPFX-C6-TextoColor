@@ -1,0 +1,19 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "texto-color-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/textoColor/TextoColorWebPart.js",
+          "manifest": "./src/webparts/textoColor/TextoColorWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "TextoColorWebPartStrings": "lib/webparts/textoColor/loc/{locale}.js",
+    "PropertyControlStrings": "node_modules/@pnp/spfx-property-controls/lib/loc/{locale}.js"
+  }
+}
